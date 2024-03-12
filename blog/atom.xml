@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://xia0b4i.github.io/blog</id>
+    <title>小白的笔记 Blog</title>
+    <updated>2023-10-25T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://xia0b4i.github.io/blog"/>
+    <subtitle>小白的笔记 Blog</subtitle>
+    <icon>https://xia0b4i.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[搭建docusaurus]]></title>
+        <id>https://xia0b4i.github.io/blog/2023-10-25-MemoryForensic-Test</id>
+        <link href="https://xia0b4i.github.io/blog/2023-10-25-MemoryForensic-Test"/>
+        <updated>2023-10-25T00:00:00.000Z</updated>
+        <author>
+            <name>小白</name>
+            <uri>https://github.com/xia0b4i</uri>
+        </author>
+        <category label="misc" term="misc"/>
+    </entry>
+</feed>
