@@ -16,7 +16,7 @@
 
 1. 配置git 填写下自己的用户名，邮箱
 2. 本地使用git生成ssh密钥对，并将公钥填写至github上
-3. 本地使用`yarn build`构建网页
-4. 使用vscode直接推送项目到`用户名.github.io`库内本地使用`yarn build`构建网页
+3. 使用vscode直接推送项目到`用户名.github.io`库内
+4. 本地使用`yarn build`构建网页
 5. git使用`GIT_USER='github用户名' yarn deploy`构建
 6. 就可以在 用户名.github.io看到你的网页啦

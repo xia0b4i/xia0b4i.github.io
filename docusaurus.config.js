@@ -10,7 +10,7 @@ const config = {
     favicon: 'img/favicon.ico',
 
     // Set the production url of your site here
-    url: 'https://xia0b4i.github.io',
+    url: 'https://xia0b4i.gitee.io',
     // Set the /<baseUrl>/ pathname under which your site is served
     // For GitHub pages deployment, it is often '/<projectName>/'
     baseUrl: '/',
@@ -18,10 +18,10 @@ const config = {
     // GitHub pages deployment config.
     // If you aren't using GitHub pages, you don't need these.
     organizationName: 'xia0b4i', // Usually your GitHub org/user name.
-    projectName: 'xia0b4i.github.io', // Usually your repo name.
+    projectName: 'blog', // Usually your repo name.
+
     onBrokenLinks: 'throw',
     onBrokenMarkdownLinks: 'warn',
-    deploymentBranch:'main',
 
     // Even if you don't use internalization, you can use this field to set useful
     // metadata like html lang. For example, if your site is Chinese, you may want
@@ -150,7 +150,7 @@ const config = {
                     ],
                 },
             ],
-            copyright: `Copyright © ${new Date().getFullYear()}  blog xia0b4i, Built with Docusaurus.`,
+            copyright: `Copyright © ${new Date().getFullYear()} Treasure-House By Randark-JMT, Built with Docusaurus.`,
         },
         colorMode: {
             defaultMode: 'light',
