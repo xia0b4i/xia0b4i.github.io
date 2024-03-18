@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktreasure_house=self.webpackChunktreasure_house||[]).push([[9267],{8289:e=>{e.exports=JSON.parse('[{"label":"misc","permalink":"/blog/tags/misc","count":1}]')}}]);
