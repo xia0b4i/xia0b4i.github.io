@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktreasure_house=self.webpackChunktreasure_house||[]).push([[2634],{192:(e,s,u)=>{u.r(s),u.d(s,{default:()=>a});u(6540);var r=u(6347),t=u(4848);const a=()=>(0,t.jsx)(r.rd,{to:"/docs/Basic/index.html"})}}]);
